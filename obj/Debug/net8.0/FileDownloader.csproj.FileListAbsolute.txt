@@ -1,0 +1,12 @@
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\bin\Debug\net8.0\FileDownloader.deps.json
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\bin\Debug\net8.0\FileDownloader.dll
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\bin\Debug\net8.0\FileDownloader.pdb
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\obj\Debug\net8.0\FileDownloader.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\obj\Debug\net8.0\FileDownloader.AssemblyInfoInputs.cache
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\obj\Debug\net8.0\FileDownloader.AssemblyInfo.cs
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\obj\Debug\net8.0\FileDownloader.csproj.CoreCompileInputs.cache
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\obj\Debug\net8.0\FileDownloader.sourcelink.json
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\obj\Debug\net8.0\FileDownloader.dll
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\obj\Debug\net8.0\refint\FileDownloader.dll
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\obj\Debug\net8.0\FileDownloader.pdb
+E:\Projects\Vesta Projects\VestaGitlab\decoyab-asp\FileDownloader\obj\Debug\net8.0\ref\FileDownloader.dll
