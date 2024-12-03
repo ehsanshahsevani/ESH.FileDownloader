@@ -1,0 +1,12 @@
+E:\Projects\ESH_DLLs\ESH.FileDownloader\bin\Debug\net8.0\ESH.FileDownloader.deps.json
+E:\Projects\ESH_DLLs\ESH.FileDownloader\bin\Debug\net8.0\ESH.FileDownloader.dll
+E:\Projects\ESH_DLLs\ESH.FileDownloader\bin\Debug\net8.0\ESH.FileDownloader.pdb
+E:\Projects\ESH_DLLs\ESH.FileDownloader\obj\Debug\net8.0\ESH.FileDownloader.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ESH_DLLs\ESH.FileDownloader\obj\Debug\net8.0\ESH.FileDownloader.AssemblyInfoInputs.cache
+E:\Projects\ESH_DLLs\ESH.FileDownloader\obj\Debug\net8.0\ESH.FileDownloader.AssemblyInfo.cs
+E:\Projects\ESH_DLLs\ESH.FileDownloader\obj\Debug\net8.0\ESH.FileDownloader.csproj.CoreCompileInputs.cache
+E:\Projects\ESH_DLLs\ESH.FileDownloader\obj\Debug\net8.0\ESH.FileDownloader.sourcelink.json
+E:\Projects\ESH_DLLs\ESH.FileDownloader\obj\Debug\net8.0\ESH.FileDownloader.dll
+E:\Projects\ESH_DLLs\ESH.FileDownloader\obj\Debug\net8.0\refint\ESH.FileDownloader.dll
+E:\Projects\ESH_DLLs\ESH.FileDownloader\obj\Debug\net8.0\ESH.FileDownloader.pdb
+E:\Projects\ESH_DLLs\ESH.FileDownloader\obj\Debug\net8.0\ref\ESH.FileDownloader.dll

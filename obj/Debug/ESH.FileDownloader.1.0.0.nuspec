@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ESH.FileDownloader</id>
+    <version>1.0.0</version>
+    <title>FileDownloader By Links</title>
+    <authors>ESH.FileDownloader</authors>
+    <licenseUrl>https://github.com/ehsanshahsevani/ESH.FileDownloader</licenseUrl>
+    <projectUrl>https://github.com/ehsanshahsevani/ESH.FileDownloader</projectUrl>
+    <description>ESH.FileDownloader is a simple and efficient C# library designed to handle the downloading and saving of various types of files (such as images, PDFs, videos, and music) from the web. This library provides an easy-to-use API for downloading files, validating extensions and sizes, and saving them locally with a unique GUID-based name.
+
+Key Features:
+
+    Supports multiple file types: Images, PDFs, Videos, and Music.
+    Validates file extensions and ensures they comply with specified rules.
+    Checks and limits file size to prevent unnecessary large files.
+    Handles errors gracefully, ensuring rollback in case of a failure.
+    Saves files with a unique GUID to avoid naming conflicts.
+
+Ideal for applications that need to download and manage files from the web, while enforcing strict file type and size restrictions</description>
+    <repository type="git" url="https://github.com/ehsanshahsevani/ESH.FileDownloader" commit="c0f86163b39a76211a58f546abf94f0873546334" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Projects\ESH_DLLs\ESH.FileDownloader\bin\Debug\net8.0\ESH.FileDownloader.dll" target="lib\net8.0\ESH.FileDownloader.dll" />
+  </files>
+</package>
