@@ -53,7 +53,6 @@ public class FileResult : object
 
 public class Downloader : object
 {
-    
     /// <summary>
     /// جهت مدیریت دقیق پسوند و حجم فایل ها
     /// </summary>

@@ -4,6 +4,22 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>FileDownloader By Links</Title>
+        <Description>ESH.FileDownloader is a simple and efficient C# library designed to handle the downloading and saving of various types of files (such as images, PDFs, videos, and music) from the web. This library provides an easy-to-use API for downloading files, validating extensions and sizes, and saving them locally with a unique GUID-based name.
+
+Key Features:
+
+    Supports multiple file types: Images, PDFs, Videos, and Music.
+    Validates file extensions and ensures they comply with specified rules.
+    Checks and limits file size to prevent unnecessary large files.
+    Handles errors gracefully, ensuring rollback in case of a failure.
+    Saves files with a unique GUID to avoid naming conflicts.
+
+Ideal for applications that need to download and manage files from the web, while enforcing strict file type and size restrictions</Description>
+        <PackageProjectUrl>https://github.com/ehsanshahsevani/ESH.FileDownloader</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/ehsanshahsevani/ESH.FileDownloader</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/ehsanshahsevani/ESH.FileDownloader</RepositoryUrl>
     </PropertyGroup>
 
 </Project>
