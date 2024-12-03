@@ -18,7 +18,7 @@ Key Features:
     Saves files with a unique GUID to avoid naming conflicts.
 
 Ideal for applications that need to download and manage files from the web, while enforcing strict file type and size restrictions</description>
-    <repository type="git" url="https://github.com/ehsanshahsevani/ESH.FileDownloader" commit="c0f86163b39a76211a58f546abf94f0873546334" />
+    <repository type="git" url="https://github.com/ehsanshahsevani/ESH.FileDownloader" commit="9cc7bf634bb4fbbb0b7234e19c33ea01295eebbd" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>
