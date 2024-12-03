@@ -24,7 +24,7 @@ Key Features:
 
 Ideal for applications that need to download and manage files from the web, while enforcing strict file type and size restrictions")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cc7bf634bb4fbbb0b7234e19c33ea01295eebbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+728af0c88f1fec2adb691eef416fcb8ad8015a46")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESH.FileDownloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESH.FileDownloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
